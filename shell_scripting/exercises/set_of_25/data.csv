@@ -1,0 +1,31 @@
+id,name,department,role,salary,start_date,city,status
+1,Alice Mercer,Engineering,Software Engineer,95000,2021-03-15,Austin,active
+2,Bob Tanaka,Marketing,Marketing Manager,82000,2019-07-22,New York,active
+3,Carmen Lopez,Engineering,DevOps Engineer,101000,2020-11-01,Austin,active
+4,David Kim,HR,HR Specialist,67000,2022-01-10,Chicago,active
+5,Eva Rossi,Engineering,Software Engineer,97000,2021-06-30,Remote,active
+6,Frank Osei,Sales,Sales Rep,58000,2023-02-14,Miami,active
+7,Grace Chen,Engineering,Tech Lead,125000,2018-09-05,Austin,active
+8,Hina Patel,Finance,Financial Analyst,78000,2020-04-20,Chicago,active
+9,Ivan Sousa,Sales,Sales Manager,91000,2019-12-01,New York,active
+10,Julia Ward,Marketing,Content Strategist,71000,2022-08-17,Remote,active
+11,Kevin Adeyemi,Engineering,Software Engineer,93000,2023-01-03,Austin,active
+12,Laura Benson,HR,HR Manager,84000,2017-05-11,Chicago,active
+13,Marcus Flynn,Finance,CFO,175000,2015-10-28,New York,active
+14,Nadia Kowalski,Engineering,Software Engineer,99000,2021-09-14,Remote,active
+15,Omar Hassan,Sales,Sales Rep,54000,2023-06-01,Miami,inactive
+16,Priya Sharma,Engineering,Data Engineer,108000,2020-07-07,Austin,active
+17,Quinn Reyes,Marketing,SEO Specialist,65000,2022-03-25,Remote,active
+18,Rachel Stone,Engineering,QA Engineer,81000,2019-08-19,Austin,active
+19,Samuel Diaz,Finance,Accountant,72000,2021-11-30,Chicago,active
+20,Tara Nguyen,Sales,Sales Rep,56000,2022-10-05,New York,inactive
+21,Uche Okafor,Engineering,Software Engineer,96000,2020-02-28,Remote,active
+22,Vera Johansson,HR,Recruiter,63000,2023-04-17,New York,active
+23,Will Torres,Engineering,Tech Lead,130000,2016-06-13,Austin,active
+24,Xiu Li,Marketing,Brand Manager,88000,2018-11-22,Chicago,active
+25,Yusuf Musa,Engineering,DevOps Engineer,104000,2019-03-09,Remote,active
+26,Zoe Campbell,Sales,Sales Manager,94000,2020-09-01,Miami,active
+27,Aaron Blake,Finance,Financial Analyst,76000,2022-05-16,Chicago,inactive
+28,Bianca Ruiz,Engineering,Software Engineer,91000,2021-04-11,Austin,active
+29,Carlos Mendes,Marketing,Marketing Manager,85000,2017-08-30,New York,active
+30,Diana Frost,HR,HR Specialist,64000,2023-07-22,Chicago,active
